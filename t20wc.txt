@@ -1,0 +1,724 @@
+
+
+<html>
+
+  <head>
+
+    <title>24 SPORTS</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Gloock&amp;display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&amp;display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="https://i.postimg.cc/jCYKxR9N/Picsart-23-12-31-02-41-43-217.jpg">
+    <link rel="stylesheet" href="style.css">
+    <!-- ===== Boxicons CSS ===== -->
+    <link href="https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css" rel="stylesheet">
+    <style>
+      body {
+            /* display: flex; */
+            align-items: center;
+            justify-content: center;
+            margin: 0 12px;
+            height: 100%;
+            background-color: #f1f1f1;
+
+          }
+
+          .box-shadow {
+            font-family: sans-serif;
+            font-weight: 600;
+            background-color: #2ecc71;
+            color: white;
+            padding: 10px;
+            border-radius: 4px;
+            box-shadow: 2px 2px 20px 23px #7fecad;
+            background-color: #f8f8f8;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+            text-align: center;
+            font-family: 'Arial', sans-serif;
+            font-size: 15px;
+            color: #333;
+          }
+
+          #title {
+            font-family: 'Gloock', serif;
+            font-weight: bold;
+            font-size: 28px;
+            color: night;
+            text-align: center;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            margin: 20px 0;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+            background-color: #f1f1f1;
+            padding: 10px 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+          }
+
+          a. {
+            text-decoration: none !important;
+          }
+    </style>
+    <link rel="stylesheet" href="https://ipl-2023-schedule.pages.dev/jtv.css">
+    <script src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js"></script>
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body data-sveltekit-preload-data="hover" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJkaXNhYmxlZCIsIkZBQ0VCT09LIjoiZGlzYWJsZWQiLCJUV0lUVEVSIjoiZGlzYWJsZWQiLCJSRURESVQiOiJkaXNhYmxlZCJ9LCJ2ZXJzaW9uIjoiMS45LjEwIiwic2NvcmUiOjEwOTEwfV0=">
+    <div style="display: contents">
+  <header class="text-blue-600 body-font" style="margin: 20px;">
+    <h1 id="title">24 SPORTS NETWORK</h1>
+  </header>
+</div>
+    <main class="">
+      <title>T20 WORLD CUP</title>
+      <div class="container" bis_skin_checked="1">
+        <div class="flex flex-row mb-3 ml-1 gap-3 justify-center align-middle" bis_skin_checked="1" style="margin: 25px;">
+  <input type="search" id="searchInput" class="relative w-[100%] col-span-4 block mx-4 rounded-l border border-solid border-neutral-300 bg-transparent bg-clip-padding px-3 py-1.5 text-base font-normal text-neutral-700 outline-none transition duration-300 ease-in-out focus:border-primary focus:text-neutral-700 focus:shadow-te-primary focus:outline-none dark:text-neutral-600 dark:placeholder:text-neutral-700" placeholder="Search"></div>
+
+
+<div id="listContainer" class="container grid place-items-center grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-8 mx-auto" bis_skin_checked="1">
+
+
+<div class="box1" bis_skin_checked="1">
+<a href="https://t.me/twenty_four_Sports" id="" data-sveltekit-preload-data="hover">
+<div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+<img src="https://i.postimg.cc/gcw2Y8vd/Telegram-Channels.jpg" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+<div class="mb-5 opacity-100" bis_skin_checked="1">
+<h2 class="text-center text-sm font-bold">JOIN TELEGRAM</h2>
+<div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+<p class="text-xs text-center"></p></div>
+</div>
+</div>
+</a>
+</div>
+
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc1" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">STAR SPORTS 1 HD</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">India Only</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc2" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+    <h2 class="text-center text-sm font-bold">STAR SPORTS 1 HD HINDI</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">India Only</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc3" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">STAR SPORTS 2 HD</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">India Only</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc4" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">STAR SPORTS SELECT 1 HD</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">India Only</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc5" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">STAR SPORTS SELECT 2 HD</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">India Only</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=6" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/4NrsPHWF/Picsart-24-06-09-18-42-05-481.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">AMAZON PRIME</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc7" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/WzBCGgsG/Picsart-24-06-09-18-43-13-427.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">WILLOW HD</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Selected Areas</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc8" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/pTwMZgZ5/Picsart-24-06-09-18-43-59-771.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">ASTRO CRICKET</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Selected Areas</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc9" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/8C7Y0ZsR/Picsart-24-06-09-18-45-03-028.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">SKY SPORTS CRICKET</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">UK & Ireland Only</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc10" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">STAR SPORTS 1 HD</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Sri Lanka Only</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc11" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">STAR SPORTS 2 HD</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Sri Lanka Only</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc12" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/SNQDPgvn/Picsart-24-06-09-18-45-48-695.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">HOTSTAR ENGLISH</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc13" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/SNQDPgvn/Picsart-24-06-09-18-45-48-695.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">HOTSTAR HINDI</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc14" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/SNQDPgvn/Picsart-24-06-09-18-45-48-695.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">HOTSTAR TAMIL</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc15" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/SNQDPgvn/Picsart-24-06-09-18-45-48-695.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">HOTSTAR TELUGU</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc16" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/SNQDPgvn/Picsart-24-06-09-18-45-48-695.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">HOTSTAR BANGLA</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc17" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/5yynk34c/Picsart-24-06-09-19-07-20-221.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">T SPORTS HD</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc18" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/y6GP806d/Picsart-24-06-09-19-11-33-677.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">TOFFEE ENGLISH</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc19" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/3N02vbrw/Picsart-24-06-09-19-11-49-411.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">TOFFEE BANGLA</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc20" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/C1XmX8zz/Picsart-24-06-09-19-12-16-399.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">TOFFEE EXCLUSIVE</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc21" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/WzBCGgsG/Picsart-24-06-09-18-43-13-427.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">WILLOW ENGLISH</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Selected Areas</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc22" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">STAR HINDI</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Selected Areas</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc23" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/MGDSMNwb/Picsart-24-06-09-20-02-40-666.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">WILLOW HINDI</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Selected Areas</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc24" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/WzBCGgsG/Picsart-24-06-09-18-43-13-427.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">WILLOW HD</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Selected Areas</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc25" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/BvknQRBY/Picsart-24-06-09-20-04-06-924.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">SKY SPORTS MAIN EVENT</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Selected Areas</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc26" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/8C7Y0ZsR/Picsart-24-06-09-18-45-03-028.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">SKY SPORTS CRICKET</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Selected Areas</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc27" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/bvzvBQNg/Picsart-24-06-09-20-03-39-089.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">SKY SPORTS MIX</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Selected Areas</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc28" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">STAR SPORTS 1 FHD</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Mobile Only | Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc29" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">STAR SPORTS 1 HD</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Mobile Only | Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc30" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">STAR SPORTS 1 HD HINDI</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Mobile Only | Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc31" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">STAR SPORTS 1 FHD HINDI</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Mobile Only | Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc32" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/CLqHhVCt/Picsart-24-06-09-20-08-55-395.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">STAR SPORTS TAMIL FHD</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Mobile Only | Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc33" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/DypkTLg5/Picsart-24-06-09-20-07-24-874.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">STAR SPORTS TELUGU FHD</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Mobile Only | Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc34" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/WzBCGgsG/Picsart-24-06-09-18-43-13-427.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">WILLOW HD</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Mobile Only | Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc35" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/WzBCGgsG/Picsart-24-06-09-18-43-13-427.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">WILLOW FHD</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Mobile Only | Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc36" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/MGDSMNwb/Picsart-24-06-09-20-02-40-666.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">WILLOW XTRA FHD</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Mobile Only | Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc37" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/BvknQRBY/Picsart-24-06-09-20-04-06-924.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">SKY SPORTS MAIN EVENT FHD</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Mobile Only | Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc38" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/XvGstDNc/Picsart-24-06-09-20-22-43-578.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">ICC</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Mobile Only | Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc39" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/MGQY9Mt9/Picsart-24-06-09-20-23-21-479.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">A SPORTS HD</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Mobile Only | Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc40" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/pTwMZgZ5/Picsart-24-06-09-18-43-59-771.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">ASTRO CRICKET FHD</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Mobile Only | Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc41" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/pTwMZgZ5/Picsart-24-06-09-18-43-59-771.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">ASTRO CRICKET FHD</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Mobile Only | Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc42" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/1XJ08p53/Picsart-24-06-09-20-24-39-418.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">FOX SPORTS 501</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Mobile Only | Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc43" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/J4KK0HpF/Picsart-24-06-09-20-31-44-066.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">PTV SPORTS</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Mobile Only | Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc44" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/8C7Y0ZsR/Picsart-24-06-09-18-45-03-028.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">SKY SPORTS CRICKET FHD</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Mobile Only | Worldwide</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+  <div class="box1" bis_skin_checked="1">
+  <a href="https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=wc44" id="" data-sveltekit-preload-data="hover">
+  <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col" bis_skin_checked="1">
+  <img src="https://i.postimg.cc/J47cf4R5/Picsart-24-06-09-20-32-09-064.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+  <div class="mb-5 opacity-100" bis_skin_checked="1">
+  <h2 class="text-center text-sm font-bold">CRICHD PLAYLIST</h2>
+  <div class="flex justify-center space-x-1" bis_skin_checked="1"><img src="1.svg" alt="">
+  <p class="text-xs text-center">Outside India | Only Brave Browser</p></div>
+  </div>
+  </div>
+  </a>
+  </div>
+
+
+
+        </div>
+      </div>
+    </main>
+    <div id="svelte-announcer" aria-live="assertive" aria-atomic="true" style="position: absolute; left: 0px; top: 0px; clip: rect(0px, 0px, 0px, 0px); clip-path: inset(50%); overflow: hidden; white-space: nowrap; width: 1px; height: 1px;" bis_skin_checked="1"></div>
+    <script type="text/javascript" src="channel.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+     // Get search input element
+  const searchInput = document.getElementById('searchInput');
+
+  // Add input event listener
+  searchInput.addEventListener('input', filterData);
+
+  // Search functionality
+  function filterData() {
+    const updatedSearchValue = searchInput.value.toLowerCase();
+
+    // Get all box elements
+    const boxes = document.querySelectorAll('.box1');
+
+    boxes.forEach((box) => {
+      const h2Text = box.querySelector('h2').textContent.toLowerCase();
+      const pText = box.querySelector('p').textContent.toLowerCase();
+
+      if (h2Text.includes(updatedSearchValue) || pText.includes(updatedSearchValue)) {
+        box.style.display = 'block'; // Show matching box
+      } else {
+        box.style.display = 'none'; // Hide non-matching box
+      }
+    });
+  }
+    </script>
